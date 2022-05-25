@@ -11,9 +11,11 @@ Créditos do game: [Richard Davey](https://twitter.com/photonstorm)
 
 ****
 ## Indicação de materiais pós-minicurso
-🎥 [Algoritmos e Lógica de Programação com Gustavo Guanabara]()
+🎥 [Algoritmos e Lógica de Programação com Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 
-🎥 [Introdução à Javascript com Gustavo Guanabara]()
+🎥 [HTML5 e CSS3 com Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+
+🎥 [Introdução à Javascript com Gustavo Guanabara](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 
 📖 [Recursos para Desenvolvedores por Mozilla Foundation](https://developer.mozilla.org/pt-BR/)
 
